@@ -1,0 +1,14 @@
+<file name="Release history">
+        <update name="API01">
+                <type>Create</type>
+                <returns>TXT</returns>
+                <maxSize>1000</maxSize>
+                <lastModified>2021-11-07</lastModified>
+        </update>
+        <update name="API02">
+                <type>Update</type>
+                <returns>TXT</returns>
+                <maxSize>1000</maxSize>
+                <lastModified>2021-10-29</lastModified>
+        </update>
+</file>
