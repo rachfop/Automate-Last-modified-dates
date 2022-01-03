@@ -91,15 +91,15 @@ The following is an example output:
 <file name="Release history">
         <update name="API01">
                 <type>Create</type>
-                <returns>PDF</returns>
-                <maxSize>1200</maxSize>
-                <lastModified>2022-01-03</lastModified>
+                <returns>TXT</returns>
+                <maxSize>1000</maxSize>
+                <lastModified>2021-11-07</lastModified>
         </update>
         <update name="API02">
                 <type>Update</type>
-                <returns>PDF</returns>
-                <maxSize>1200</maxSize>
-                <lastModified>2022-01-03</lastModified>
+                <returns>TXT</returns>
+                <maxSize>1000</maxSize>
+                <lastModified>2021-10-29</lastModified>
         </update>
 </file>
 ```
